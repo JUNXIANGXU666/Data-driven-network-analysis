@@ -1,1 +1,1 @@
-# Networkdata This is a random generated data used for network analysis
+# Networkdata This is the randomly generated network structure attribute data by NetworkX, which is mainly used to study the network connectivity problem, and provides data information including the number of nodes, the number of edges, network aggregation coefficient, network disruption degree and other attribute data.
